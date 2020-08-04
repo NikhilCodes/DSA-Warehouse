@@ -1,2 +1,11 @@
-.vscode/*
-.idea/*
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Output Files
+*a.out
